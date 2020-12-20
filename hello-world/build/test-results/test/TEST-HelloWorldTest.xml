@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HelloWorldTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-20T05:24:32" hostname="Jackys-MBP-2" time="0.01">
+  <properties/>
+  <testcase name="helloWorldTest" classname="HelloWorldTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
